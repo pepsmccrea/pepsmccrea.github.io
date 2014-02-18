@@ -86,11 +86,6 @@ strong {
     font-size: 1em;
   }
 
-  .inner {
-    min-width: 320px;
-    max-width: 480px;
-  }
-
   h1 {
     font-size: 5em;
   }
