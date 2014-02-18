@@ -41,7 +41,7 @@ a {
   color: #999;
 }
 
-a:hover {text-decoration: underline;}
+a:hover {  color: #800020;}
 
 em {
   font-style: italic;
