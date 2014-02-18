@@ -83,7 +83,7 @@ strong {
 
 @media screen and (max-width: 480px) {
   body {
-    font-size: 2em;
+    font-size: 1em;
   }
 
   .inner {
