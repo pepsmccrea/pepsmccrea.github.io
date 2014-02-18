@@ -81,9 +81,9 @@ strong {
 
 /* Small screen styles */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 480px) {
   body {
-    font-size: 1em;
+    font-size: 2em;
   }
 
   .inner {
