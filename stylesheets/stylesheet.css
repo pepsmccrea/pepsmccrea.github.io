@@ -85,6 +85,12 @@ strong {
   body {
     font-size: 1em;
   }
+  
+  .inner {
+  position: relative;
+  padding: 20px 10px;
+  margin: 0 auto;
+  }
 
   h1 {
     font-size: 5em;
