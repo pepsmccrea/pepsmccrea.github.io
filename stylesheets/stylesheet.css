@@ -60,7 +60,7 @@ strong {
 .inner {
   position: relative;
   max-width: 640px;
-  padding: 30px 30px;
+  padding: 30px 30px 30px 30px;
   margin: 0 auto;
 }
 
@@ -68,16 +68,8 @@ strong {
   background: #800020;
 }
 
-#header_wrap .inner {
-  padding: 30px 30px 30px 30px;
-}
-
 #main_content_wrap {
   background: #fff;
-}
-
-#main_content {
-  padding-top: 40px;
 }
 
 /* Small screen styles */
@@ -88,12 +80,9 @@ strong {
   }
   
   .inner {
-  padding: 20px 20px;
-  }
-  
-  #header_wrap .inner {
   padding: 20px 20px 20px 20px;
   }
+  
 
   h1 {
     font-size: 5em;
